@@ -1,6 +1,6 @@
 ## Hello, I'm Fernando Portigliotti!
 
-[![Fernando Portigliotti's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fernando-Portigliotti&show_icons=true&theme=dracula#gh-dracula-mode-only)](https://github.com/Fernando-Portigliotti/github-readme-stats#gh-dracula-mode-only)
+[![Fernando Portigliotti's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fernando-Portigliotti&show_icons=true&theme=dracula#gh-dracula-mode-only)](https://github-readme-stats.vercel.app/api/top-langs/?username=Fernando-Portigliotti&show_icons=true&theme=dracula#gh-dracula-mode-only)
 
 ##
 
