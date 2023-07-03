@@ -1,7 +1,7 @@
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff91a4&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Fernando-Portigliotti;I'm+25+years+old;I'm+from+Brazil;I+Graduated+systems+Development;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff6e96&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Fernando-Portigliotti;I'm+25+years+old;I'm+from+Brazil;I+Graduated+systems+Development;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Fernando-Portigliotti&bg_color=0d1117&color=b13583&line=b13583&point=ff9494&area=true&hide_border=true)](https://github.com/Fernando-Portigliotti/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Fernando-Portigliotti&bg_color=282a36&color=ff6e96&line=b13583&point=ff91a4&area=true&hide_border=true)](https://github.com/Fernando-Portigliotti/github-readme-activity-graph)
 
 ##
 
